@@ -1,4 +1,4 @@
-# EAFC Clubs API (also known as Pro Clubs)
+# EAFC 25 Clubs API (also known as Pro Clubs)
 EAFC CLUBS API - NB actual repo is private, contact me for more information
 
 
